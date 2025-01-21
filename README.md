@@ -1,8 +1,27 @@
-# React + Vite
+# Zomato Clone App - Food Delivery Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+Zomato Clone App is a feature-rich food delivery application built with a focus on seamless user experience and payment integration. It allows users to browse restaurants, place orders, and make secure payments—all within a responsive and intuitive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+
+User Authentication
+
+Sign up and log in to explore and order food.
+
+Restaurant Listings
+
+Browse a variety of restaurants and their menu items.
+
+Order Placement
+
+Add food items to the cart and place orders with ease.
+
+Payment Integration
+
+Secure online payment processing for a smooth checkout experience.
+
+Order Tracking
+
+Stay updated with real-time order tracking (if implemented).
