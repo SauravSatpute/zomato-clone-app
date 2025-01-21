@@ -2,26 +2,16 @@
 
 ## Overview
 
-Zomato Clone App is a feature-rich food delivery application built with a focus on seamless user experience and payment integration. It allows users to browse restaurants, place orders, and make secure payments—all within a responsive and intuitive interface.
+Zomato Clone App is a feature-rich food delivery application built with a focus on seamless user experience and payment integration. It allows users to browse restaurants and make secure payments—all within a responsive and intuitive interface.
 
 Features
 
-User Authentication
+1. Restaurant Listings
 
-Sign up and log in to explore and order food.
+2. Browse a variety of restaurants and their menu items.
 
-Restaurant Listings
+3. Order Placement
 
-Browse a variety of restaurants and their menu items.
+4. Add food items to the cart and place orders with ease.
 
-Order Placement
-
-Add food items to the cart and place orders with ease.
-
-Payment Integration
-
-Secure online payment processing for a smooth checkout experience.
-
-Order Tracking
-
-Stay updated with real-time order tracking (if implemented).
+5. Payment Integration.
